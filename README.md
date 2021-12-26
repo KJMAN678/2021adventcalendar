@@ -1,5 +1,6 @@
 1.[kaggleからデータセットをダウンロードする](https://zenn.dev/megane_otoko/articles/2021ad_01_download_dateset)
 2.[色んなEDAを試してみる](https://zenn.dev/megane_otoko/articles/2021ad_02_explanatory_data_analysis)
+ - ipywidgets error 対策で Jupyter Notebook 推奨。[参考サイト](https://stackoverflow.com/questions/67998191/importerror-iprogress-not-found-please-update-jupyter-and-ipywidgets-although)
 3.[LightGBMでシンプルな回帰をやる](https://zenn.dev/megane_otoko/articles/2021ad_03_simple_regression)
 4.[回帰の評価をやってみる](https://zenn.dev/megane_otoko/articles/2021ad_04_evaluation)
 5.[標準化、正規化をやってみる](https://zenn.dev/megane_otoko/articles/2021ad_05_standard_normal)
